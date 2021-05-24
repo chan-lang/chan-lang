@@ -1,0 +1,11 @@
+[package]
+name = "chan-lang"
+version = "0.1.0"
+authors = ["Viktor A. Rozenko Voitenko <sharp.vik@gmail.com>"]
+edition = "2018"
+description = "Chan Programming Language"
+readme = "README.md"
+license = "GPL-3.0"
+repository = "https://github.com/chan-lang/chan-lang/"
+
+[dependencies]
