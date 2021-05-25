@@ -9,3 +9,5 @@ license = "GPL-3.0"
 repository = "https://github.com/chan-lang/chan-lang/"
 
 [dependencies]
+common_macros = "*"
+idioma = "*"
