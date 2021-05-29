@@ -10,4 +10,7 @@ repository = "https://github.com/chan-lang/chan-lang/"
 
 [dependencies]
 common_macros = "*"
+lazy_static = "*"
 idioma = "*"
+regex = "*"
+logos = "*"

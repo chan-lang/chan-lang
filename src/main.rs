@@ -1,4 +1,5 @@
 mod common;
+mod compiler;
 mod runtime;
 
 fn main() {

@@ -6,8 +6,8 @@ pub struct VM {
 }
 
 impl VM {
-    pub fn new(program: Program) -> VM {
-        VM { program: program }
+    pub fn new(program: Program) -> Self {
+        Self { program: program }
     }
 
     pub fn run(&self) -> Result<(), idioma::Error> {
